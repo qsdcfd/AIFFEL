@@ -23,3 +23,16 @@
 |E17. BERT|KorQuAD 퀴즈 맞히기|Pretrained model로 성능 개선|
 |E18. OCR|OCR 사용해보기|OCR 서비스 기획|
 |E19. Conditioanl GAN|cGAN, Pix2Pix|Segmentation map 이미지 생성|
+
+
+# Going Deeper - CV
+|Lecture|Project|
+|---|---|
+|G1. Backbone Network|G2. Ablation Study|
+|G3. Data Augmentation|G4. CutMix, Mixup|
+|G5. Class Activation Map|G6. CAM, Grad-CAM|
+|G7. Object Detection|G8. 자율주행 보조 시스템|
+|G9. Segmentation|G10. 도로 영역 찾기|
+|G11. OCR|G12. End-to-End OCR|
+|G13. Camera Sticker App |G14. 카메라 스티커앱 개선하기|
+|G15. 사람의 몸짓을 읽어보자|G16. 행동 스티커 만들기|
