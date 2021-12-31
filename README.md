@@ -25,7 +25,8 @@
 |E19. Conditioanl GAN|cGAN, Pix2Pix|Segmentation map 이미지 생성|
 
 
-# Going Deeper - CV
+## Going Deeper - CV
+
 |Lecture|Project|
 |---|---|
 |G1. Backbone Network|G2. Ablation Study|
